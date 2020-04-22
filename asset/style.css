@@ -1,0 +1,19 @@
+button {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color:#f5c1f3;
+    opacity: 80%;
+    
+}
+
+#button {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 200px;
+    font-size: 50px;  
+}
+
+h1 {
+    text-align: right;
+}
